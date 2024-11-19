@@ -1,0 +1,11 @@
+git add
+git commit -m // -p
+git push
+git status
+git diff
+
+env
+env | grep "LANG"
+
+"pep8.org"
+
